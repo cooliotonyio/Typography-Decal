@@ -27,6 +27,9 @@ github_username:  jekyll
 # For GitHub Pages
 destination: docs
 
+# For DNS routing from typographydecal.com to GitHub Pages
+keep_files: ["CNAME"]
+
 # Build settings
 markdown: kramdown
 theme: minima
