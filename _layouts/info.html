@@ -1,6 +1,7 @@
 ---
 layout: base
 ---
+<div class="h-100">
 <!-- Header -->
 <div class="row justify-content-center pt-5">
   <div class="col-4 ml-5">
@@ -21,8 +22,8 @@ layout: base
           {{page.units}}<br>
         </div>
         <div class="col-6 my-auto">
+          <a href="/">Home</a><br>
           <a href="/contact">Contact</a><br>
-          <a href="/info">Course Information</a><br>
           <a href="/resources">Resources</a><br>
         </div>
     </div>
@@ -31,29 +32,11 @@ layout: base
 <!-- End of Header -->
 
 <!-- Body -->
-<div class="row justify-content-center">
-  <div class="col-10">
-    <div class="row">
-    {% for lecture in site.lectures%}
-      <div class="col-md-3 my-2">
-        <div class="mx-2 border-top border-left h-100">
-          <div class="ml-2">
-            <p class="lead">
-              {{lecture.date | date_to_long_string}}
-            </p>
-            <a href="#">
-              <h5>
-                {{lecture.title}}
-              </h5>
-            </a>
-            <p>
-              {{lecture.content}}
-            </p>
-          </div>
-        </div>
-      </div>
-      {% endfor %}
+<div class="row justify-content-center pt-5">
+    <div class="col-8">
+        {{content}}
     </div>
-  </div>
 </div>
 <!-- End of Body-->
+
+</div>
