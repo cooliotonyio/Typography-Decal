@@ -8,15 +8,20 @@
         {{page.description}}
         </p>
     </div>
-    <div class="col-sm-5 mx-4">
+    <div class="col-sm-5 mx-3">
         <div class="row justify-content-center">
-            <div class="col-sm-6 my-auto">
-                {{page.course_no}}<br>
-                {{page.schedule}}<br>
-                {{page.location}}<br>
-                {{page.units}}<br>
+            <div class="col-sm-6">
+                {% if page.layout == "index" %}
+                    {{page.course_no}}<br>
+                    {{page.schedule}}<br>
+                    {{page.location}}<br>
+                    {{page.units}}<br>
+                {% endif %}
+                {% if page.layout == "lecture" %}
+                    <h2 class="text-muted">{{page.date | date_to_long_string}}</h2>
+                {% endif %}
             </div>
-            <div class="col-sm-6 my-auto">
+            <div class="col-sm-6">
                 <a href="/">Home</a><br>
                 <a href="/contact">Contact</a><br>
                 <a href="/info">Course Information</a><br>

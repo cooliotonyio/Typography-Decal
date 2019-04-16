@@ -22,6 +22,7 @@ url: "http://typographydecal.com" # the base hostname & protocol for your site, 
 
 # For GitHub Pages
 destination: docs
+future: true
 
 # Files for Jekyll to ignore
 exclude: ["README.md","Gemfile","Gemfile.lock"]
@@ -31,8 +32,18 @@ markdown: kramdown
 theme: minima
 plugins:
 collections:
-  - lectures
-  - facilitators
+  facilitators:
+    output: false
+  lectures:
+    output: true
+    permalink: /lecture/:path
+
+defaults:
+  - scope:
+      path: ""
+      type: "lectures"
+    values:
+      layout: lecture
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

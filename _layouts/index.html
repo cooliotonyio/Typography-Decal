@@ -16,13 +16,13 @@ layout: base
             <p class="lead">
               {{lecture.date | date_to_long_string}}
             </p>
-            <a href="#">
+            <a href="{{lecture.url}}">
               <h5>
                 {{lecture.title}}
               </h5>
             </a>
             <p>
-              {{lecture.content}}
+              {{lecture.excerpt}}
             </p>
           </div>
         </div>
