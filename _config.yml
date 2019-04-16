@@ -27,8 +27,8 @@ github_username:  jekyll
 # For GitHub Pages
 destination: docs
 
-# For DNS routing from typographydecal.com to GitHub Pages
-keep_files: ["CNAME"]
+# Files for Jekyll to ignore
+exclude: ["README.md","Gemfile","Gemfile.lock"]
 
 # Build settings
 markdown: kramdown

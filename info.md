@@ -1,6 +1,6 @@
 ---
 layout: info
-title: Course information
+title: Course Information
 description: insert description here
 ---
 
