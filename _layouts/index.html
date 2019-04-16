@@ -1,0 +1,59 @@
+---
+layout: base
+---
+<!-- Header -->
+<div class="row justify-content-center pt-5">
+  <div class="col-4 ml-5">
+    <h1>
+      {{page.title}}
+      <!-- TODO: https://mattboldt.com/demos/typed-js/ -->
+    </h1>
+    <p>
+      {{page.description}}
+    </p>
+  </div>
+  <div class="col-6 mx-5">
+    <div class="row justify-content-center">
+      <div class="col-6 my-auto">
+          {{page.course_no}}<br>
+          {{page.schedule}}<br>
+          {{page.location}}<br>
+          {{page.units}}<br>
+        </div>
+        <div class="col-6 my-auto">
+          <a href="#">Contact</a><br>
+          <a href="#">Course Information</a><br>
+          <a href="#">Resources</a><br>
+        </div>
+    </div>
+  </div>
+</div>
+<!-- End of Header -->
+
+<!-- Body -->
+<div class="row justify-content-center">
+  <div class="col-10">
+    <div class="row">
+    {% for lecture in site.lectures%}
+      <div class="col-md-3 my-2">
+        <div class="mx-2 border-top border-left h-100">
+          <div class="ml-2">
+            <p class="lead">
+              {{lecture.date | date_to_long_string}}
+            </p>
+            <a href="#">
+              <h5>
+                {{lecture.title}}
+              </h5>
+            </a>
+            <p>
+              {{lecture.content}}
+            </p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+<!-- End of Body-->
