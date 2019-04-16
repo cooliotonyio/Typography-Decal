@@ -5,8 +5,10 @@ Developed by [Tony Zhao](http://tonyzhao.org)
 * Hosted by [Github Pages](https://pages.github.com/)
 
 ## Editing
-**DO NOT EDIT ANYTHING IN `docs` FOLDER**
-Any edits in this folder is unstable and will be overwritten. Instead, only edit the `.md` files in root directory or `_lectures`. If layout style changes need to be made, edit the layout files in `_layouts/`.
+**DO NOT EDIT ANYTHING IN THE `docs` FOLDER**.
+Any edits in this folder is unstable and will be overwritten. 
+Instead, only edit the `.md` files in root directory or `_lectures`. 
+If layout style changes need to be made, edit the layout files in `_layouts/`.
 
 ### Home page
 Should have the following properties in the front matter of `index.md`
