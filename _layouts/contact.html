@@ -2,32 +2,35 @@
 layout: base
 ---
 <div class="h-100">
-<!-- Header -->
-{% include header.html %}
-<!-- End of Header -->
+  <!-- Header -->
+  {% include header.html %}
+  <!-- End of Header -->
 
-<!-- Body -->
-<div class="row justify-content-center">
-  <div class="col-10">
-    <div class="row">
-    {% for f in site.facilitators%}
-      <div class="col-md-3 my-2">
-        <div class="mx-2 border-top border-left h-100">
-          <div class="ml-2">
+  <!-- Body -->
+  <div class="row justify-content-center">
+    <div class="col-8">
+      <div class="row">
+      {% for f in site.facilitators%}
+        <div class="col-md-6 my-2 text-center">
+          <div class="mx-2 h-100">
             <a href="#">
               <h5>
                 {{f.name}}
               </h5>
             </a>
+            <img class="w-50 rounded" src="/images/{{f.image}}">
             <p>
               {{f.email}} (at) berk
             </p>
           </div>
         </div>
+        {% endfor %}
       </div>
-      {% endfor %}
     </div>
   </div>
-</div>
-<!-- End of Body-->
+  <!-- End of Body-->
+
+  <!-- Footer -->
+  {% include fixed_footer.html %}
+  <!-- End of Footer -->
 </div>

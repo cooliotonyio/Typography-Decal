@@ -2,16 +2,19 @@
 layout: base
 ---
 <div class="h-100">
-<!-- Header -->
-{% include header.html %}
-<!-- End of Header -->
+    <!-- Header -->
+    {% include header.html %}
+    <!-- End of Header -->
 
-<!-- Body -->
-<div class="row justify-content-center pt-5">
-    <div class="col-8">
-        {{content}}
+    <!-- Body -->
+    <div class="row justify-content-center pt-5">
+        <div class="col-8">
+            {{content}}
+        </div>
     </div>
-</div>
-<!-- End of Body-->
+    <!-- End of Body-->
 
+    <!-- Footer -->
+    {% include fixed_footer.html %}
+    <!-- End of Footer -->
 </div>
