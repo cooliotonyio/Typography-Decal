@@ -1,4 +1,4 @@
-#Typography DeCal Website
+# Typography DeCal Website
 Developed by [Tony Zhao](http://tonyzhao.org)
 * Designed with [Bootstrap 4](https://getbootstrap.com/)
 * Built with [Jekyll](https://jekyllrb.com/)
