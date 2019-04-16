@@ -13,11 +13,9 @@ layout: base
       {% for f in site.facilitators%}
         <div class="col-md-6 my-2 text-center">
           <div class="mx-2 h-100">
-            <a href="#">
-              <h5>
-                {{f.name}}
-              </h5>
-            </a>
+            <h5>
+              {{f.name}}
+            </h5>
             <img class="w-50 rounded" src="/images/{{f.image}}">
             <p>
               {{f.email}} (at) berk
