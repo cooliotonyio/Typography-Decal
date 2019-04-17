@@ -40,6 +40,8 @@ This course will compose of 1.5 hour lectures held {{site.course_schedule}} in {
 
 Lecture material are expected to usually take the full amount of time allotted, but at certain points in the course some time at the end will be dedicated to critique of student projects.
 
+Aside from lecture, Students can expect approximately 2-3 hours of work per week spent on the projects.
+
 ### Materials
 ___
 
@@ -54,17 +56,17 @@ There are no exams or quizzes in this course.
 
 #### Assignments
 
-There will be three projects throughout the course.
+There will be three projects assigned throughout the course.
 
-##### Project 1: Typography in the Wild
+**Project 1: Typography in the Wild**
 
 The first project involves exploring and finding elements of typography in the real world. Students are expected to create a presentation on the evaluation of these elements based on the principles of good typographic design introduced in lecture.
 
-##### Project 2: Font Deep Dive
+**Project 2: Font Deep Dive**
 
 The second project involves intensely focusing on a specific font. Students are expected to submit a presentation composed of some combination of the historical and cultural significance as well as guidelines for usage and context for the font.
 
-##### Project 3: Individual Typographic Design
+**Project 3: Individual Typographic Design**
 
 The final project involves students creating their own design project based on ideas from lecture. Students are encouraged to utilize the full extent of their creativity in developing their own design aesthetic and visual identity.
 
@@ -90,39 +92,40 @@ Students are expected to be active participants during lecture, incorporating in
 
 #### Missed/Late Assignments
 
-Students are expected to submit all assignments on time. Students who cannot meet deadlines due to extenuating circumstances will be addressed in a case-by-case situation.
+Students are expected to submit all assignments on time. Students who cannot meet deadlines due to extenuating circumstances will be addressed case-by-case.
 
-#### Permissible and impermissible collaboration
+#### Collaboration Policy
+
 Students are expected to produce their own work. Projects can be done either alone, or in pairs. Collaboration is encouraged, as constructive critisim is the best method to improve and refine design.
 
 Acceptable examples of collaboration include: discussing design elements, presenting work for feedback, searching online for generic templating and inspiration, providing critism of another student's work.
 
-Unacceptable examples of collaboration include: taking specific designs from online, copying and incorporating significant design elements from other students.
+Unacceptable examples of collaboration include: using specific visual identities found online, copying and incorporating significant design elements from other students or online.
 
 #### Schedule
 
-The course schedule will be regularly updated at the (home page)[/]
+The course schedule will be regularly updated at the [home page](/).
 
 ### Resources
 ___
 
 To excel in this course, students are encouraged to browse online resources for both building an individual design aesthetic as well as gaining inspiration.
 
-Additional resources can be found in the [resources page](/resources)
+Additional resources can be found in the [resources page](/resources).
 
 ### Accomodation
 ___
 
-For requests on reasonable accomodation for the following, please contact the course [facilitators](/contact)
+For requests on reasonable accomodation for the following, please contact the course [facilitators](/contact).
 
 * physical disabilities
 * medical disabilities
 * learning disabilities
-* religious observations and practices.
+* religious observations and practices
 
 ### Rights
 ___
 
 Academic freedom is the conviction that the freedom of inquiry by faculty members is essential to the mission of the academy as well as the principles of academia, and that scholars should have freedom to teach or communicate ideas or facts. Students are asked realize their right and to respect the right of others to express their points of view.
 
-Materials produced for the sole purpose of the project fall under an MIT License.
+Materials produced for the sole purpose of this course fall under an MIT License. The material is free to be shared and adapted for any purpose.
