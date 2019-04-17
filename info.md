@@ -28,11 +28,11 @@ Some basic understanding of HTML and CSS is helpful, but not necessary.
 
 #### Course Overview
 
-Typography is a UC Berkeley DeCal course intended to teach students about the foundations and applications of typography. The course will emphasize on building a base of design knowledge and assignments in which students will apply their knowledge and creativity to create several pieces of original work. Students will also hone their critical eye and their own stylistic development.
+Typography is a UC Berkeley DeCal course intended to teach students about the foundations and applications of typography. The course will emphasize on building a base of design knowledge and assignments in which students will apply their knowledge and creativity to both evaluate design examples as well as produce their own original work. Students will also hone their critical eye and their own stylistic development.
 
 #### Student Learning Objective
 
-The course will help students grow as designers in both the practical and critical sense. Passing this course, students can expect to view the world from both an objective design standpoint as well as their own subjective stylistic opinion. Upon completion of the course, students are also expected to be able to demonstrate basic principles of good typographic design in web and product design.
+The course will help students grow as designers in both the practical and critical sense. Passing this course, students can expect to view the world from both an objective design standpoint as well as their own subjective stylistic opinion. Upon completion of the course, students are also expected to be able to demonstrate basic principles of good typographic design in both web and product design.
 
 #### Instruction
 
