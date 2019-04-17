@@ -12,10 +12,10 @@
         <div class="row justify-content-center">
             <div class="col-sm-6">
                 {% if page.layout == "index" %}
-                    {{page.course_no}}<br>
-                    {{page.schedule}}<br>
-                    {{page.location}}<br>
-                    {{page.units}}<br>
+                    {{site.course_listing}}<br>
+                    {{site.course_schedule}}<br>
+                    {{site.course_location}}<br>
+                    {{site.course_semester}}<br>
                 {% endif %}
                 {% if page.layout == "lecture" %}
                     <h2 class="text-muted">{{page.date | date_to_long_string}}</h2>
