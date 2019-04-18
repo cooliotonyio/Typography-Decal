@@ -1,12 +1,10 @@
 ---
 layout: info
-title: Course Information
-description: For all your burning questions
+title: Syllabus
+description: For all your burning questions about the course
 ---
 
-## Syllabus
-
-### Basic information
+## Basic information
 ___
 
 **{{site.course_listing}} Typography** is offered at University of Berkeley, California during the **{{site.course_semester}}** semester.
@@ -17,7 +15,7 @@ Lecture will be held in **{{site.course_location}}** on **{{site.course_schedule
 
 Disclaimer: Syllabus and schedule subject to change.
 
-### Course Description
+## Course Description
 ___
 
 #### Prerequisites
@@ -42,12 +40,12 @@ Lecture material are expected to usually take the full amount of time allotted, 
 
 Aside from lecture, Students can expect approximately 2-3 hours of work per week spent on the projects.
 
-### Materials
+## Materials
 ___
 
 No resources are mandatory for this course. However, students are encouraged to enjoy [additional resources](/resources) to build a more encompassing undersanding and holistic appreciation for the course material.
 
-### Requirements
+## Requirements
 ___
 
 #### Exams and Quizzes
@@ -70,7 +68,7 @@ The second project involves intensely focusing on a specific font. Students are 
 
 The final project involves students creating their own design project based on ideas from lecture. Students are encouraged to utilize the full extent of their creativity in developing their own design aesthetic and visual identity.
 
-### Policies
+## Policies
 ___
 
 #### Grading
@@ -106,14 +104,14 @@ Unacceptable examples of collaboration include: using specific visual identities
 
 The course schedule will be regularly updated at the [home page](/).
 
-### Resources
+## Resources
 ___
 
 To excel in this course, students are encouraged to browse online resources for both building an individual design aesthetic as well as gaining inspiration.
 
 Additional resources can be found in the [resources page](/resources).
 
-### Accomodation
+## Accomodation
 ___
 
 For requests on reasonable accomodation for the following, please contact the course [facilitators](/contact).
@@ -123,7 +121,7 @@ For requests on reasonable accomodation for the following, please contact the co
 * learning disabilities
 * religious observations and practices
 
-### Rights
+## Rights
 ___
 
 Academic freedom is the conviction that the freedom of inquiry by faculty members is essential to the mission of the academy as well as the principles of academia, and that scholars should have freedom to teach or communicate ideas or facts. Students are asked realize their right and to respect the right of others to express their points of view.

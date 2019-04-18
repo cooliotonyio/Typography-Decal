@@ -90,7 +90,7 @@ site: ...
 ---
 ```
 
-### Course Information
+### Syllabus
 Edit markdown file `info.md` in root directory. Everything below the front matter will be rendered automatically from markdown to html.
 
 
