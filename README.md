@@ -10,6 +10,26 @@ Any edits in this folder is unstable and will be overwritten.
 Instead, only edit the `.md` files in root directory or `_lectures`. 
 If layout style changes need to be made, edit the layout files in `_layouts/`.
 
+The only thing required to develop the site is Jekyll, which requires Ruby.
+
+For macOS, this can be done with
+
+```
+brew install ruby
+gem install bundler jekyll
+```
+
+In order to see your changes, run `jekyll serve`. This will create a local server at your computer for you to explore changes.
+
+If you are satisfied with your changes, run the following commands to push to the live website.
+```
+jekyll build
+git add *
+git commit -m "your extremely useful commit message"
+git push origin master
+```
+
+And then wait a minute or two for GitHub Pages to load the changes at [typographydecal.com](http://typographydecal.com).
 
 ### Site-wide Properties
 
