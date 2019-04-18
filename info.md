@@ -94,11 +94,13 @@ Students are expected to submit all assignments on time. Students who cannot mee
 
 #### Collaboration Policy
 
-Students are expected to produce their own work. Projects can be done either alone, or in pairs. Collaboration is encouraged, as constructive critisim is the best method to improve and refine design.
+Students are expected to produce their own work. Projects are individual work. However collaboration is encouraged, as constructive critisim is the best method to improve and refine design abilities.
 
-Acceptable examples of collaboration include: discussing design elements, presenting work for feedback, searching online for generic templating and inspiration, providing critism of another student's work.
+Acceptable examples of collaboration include: discussing design elements, presenting work for feedback, searching online for generic templating and inspiration, providing feedback for another student's work.
 
-Unacceptable examples of collaboration include: using specific visual identities found online, copying and incorporating significant design elements from other students or online.
+Unacceptable examples of collaboration include: simply copying visual identities found online, incorporating significant design elements from other students.
+
+Unacceptable forms of collaboration and/or plagiarism fall under academic dishonesty, and students will recieve no credit for the project.
 
 #### Schedule
 
