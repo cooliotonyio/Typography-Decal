@@ -6,3 +6,7 @@ a:hover {
     text-decoration: none;
     color: salmon;
 }
+
+li {
+    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+}

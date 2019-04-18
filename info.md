@@ -94,11 +94,20 @@ Students are expected to submit all assignments on time. Students who cannot mee
 
 #### Collaboration Policy
 
-Students are expected to produce their own work. Projects are individual work. However collaboration is encouraged, as constructive critisim is the best method to improve and refine design abilities.
+Students are expected to produce their own work. Projects are individual and not group-based. However collaboration is encouraged, as constructive criticism is the best method to improve and refine design abilities.
 
-Acceptable examples of collaboration include: discussing design elements, presenting work for feedback, searching online for generic templating and inspiration, providing feedback for another student's work.
+Acceptable examples of collaboration include:
 
-Unacceptable examples of collaboration include: simply copying visual identities found online, incorporating significant design elements from other students.
+* discussing design elements with other students
+* presenting work to another student for feedback
+* searching online for generic templating and inspiration
+* providing constructive criticism for another student's work
+
+Unacceptable examples of collaboration include:
+
+* simply copying visual identities found online
+* incorporating significant design elements from other students
+* having another person design portions of the project
 
 Unacceptable forms of collaboration and/or plagiarism fall under academic dishonesty, and students will recieve no credit for the project.
 
@@ -128,4 +137,4 @@ ___
 
 Academic freedom is the conviction that the freedom of inquiry by faculty members is essential to the mission of the academy as well as the principles of academia, and that scholars should have freedom to teach or communicate ideas or facts. Students are asked realize their right and to respect the right of others to express their points of view.
 
-Materials produced for the sole purpose of this course fall under an MIT License. The material is free to be shared and adapted for any purpose.
+Materials produced for the sole purpose of this course fall under the MIT License. Said material is free to be shared and adapted for any purpose.
