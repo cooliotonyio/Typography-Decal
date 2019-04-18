@@ -18,19 +18,19 @@ Disclaimer: Syllabus and schedule subject to change.
 ## Course Description
 ___
 
+#### Course Overview
+
+Typography is a UC Berkeley DeCal course intended to teach students about the foundations and applications of typography. The course will emphasize on building a base of design knowledge and assignments in which students will apply their knowledge and creativity to both evaluate design examples as well as produce their own original work. Students will also hone their critical eye and their own stylistic development.
+
+#### Student Learning Objectives
+
+The course will help students grow as designers in both the practical and critical sense. Passing this course, students can expect to view the world from both an objective design standpoint as well as their own subjective stylistic opinion. Upon completion of the course, students are also expected to be able to demonstrate basic principles of good typographic design in both web and product design.
+
 #### Prerequisites
 
 No formal course prerequisites are required for this class.
 
 Some basic understanding of HTML and CSS is helpful, but not necessary.
-
-#### Course Overview
-
-Typography is a UC Berkeley DeCal course intended to teach students about the foundations and applications of typography. The course will emphasize on building a base of design knowledge and assignments in which students will apply their knowledge and creativity to both evaluate design examples as well as produce their own original work. Students will also hone their critical eye and their own stylistic development.
-
-#### Student Learning Objective
-
-The course will help students grow as designers in both the practical and critical sense. Passing this course, students can expect to view the world from both an objective design standpoint as well as their own subjective stylistic opinion. Upon completion of the course, students are also expected to be able to demonstrate basic principles of good typographic design in both web and product design.
 
 #### Instruction
 
@@ -43,7 +43,7 @@ Aside from lecture, Students can expect approximately 2-3 hours of work per week
 ## Materials
 ___
 
-No resources are mandatory for this course. However, students are encouraged to enjoy [additional resources](/resources) to build a more encompassing undersanding and holistic appreciation for the course material.
+No resources are mandatory for this course. However, students are encouraged to enjoy **[additional resources](/resources)** to build a more encompassing undersanding and holistic appreciation for the course material.
 
 ## Requirements
 ___
@@ -113,14 +113,14 @@ Unacceptable forms of collaboration and/or plagiarism fall under academic dishon
 
 #### Schedule
 
-The course schedule will be regularly updated at the [home page](/).
+The course schedule will be regularly updated at the **[home page](/)**.
 
 ## Resources
 ___
 
 To excel in this course, students are encouraged to browse online resources for both building an individual design aesthetic as well as gaining inspiration.
 
-Additional resources can be found in the [resources page](/resources).
+Additional resources can be found in the **[resources page](/resources)**.
 
 ## Accomodation
 ___
@@ -135,6 +135,6 @@ For requests on reasonable accomodation for the following, please contact the co
 ## Rights
 ___
 
-Academic freedom is the conviction that the freedom of inquiry by faculty members is essential to the mission of the academy as well as the principles of academia, and that scholars should have freedom to teach or communicate ideas or facts. Students are asked realize their right and to respect the right of others to express their points of view.
+Academic freedom is the conviction that the freedom of inquiry by faculty members is essential to the mission of the academy as well as the principles of academia, and that scholars should have freedom to teach or communicate ideas or facts. Students are asked to realize their own right and to respect the right of others to express their points of view.
 
 Materials produced for the sole purpose of this course fall under the MIT License. Said material is free to be shared and adapted for any purpose.
