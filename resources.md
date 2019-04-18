@@ -1,7 +1,7 @@
 ---
 layout: resources
 title: Resources
-description: Useful resources for typography
+description: When you're feeling a little adventurous...
 ---
 ## Hello resources
 this is also markdown

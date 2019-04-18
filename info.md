@@ -1,7 +1,7 @@
 ---
 layout: info
 title: Course Information
-description: insert description here
+description: For all your burning questions
 ---
 
 ## Syllabus

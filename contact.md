@@ -1,5 +1,5 @@
 ---
 layout: contact
 title: Contact
-description: Facilitators
+description: Get in touch with our lovely instructors
 ---
