@@ -39,7 +39,7 @@ Site-wide properties include course information that should be constant througho
 # Site-wide course information
 course_listing: CS98/198-94
 course_schedule: Thursdays, 7-8:30pm
-course_location: 310 Jacobs Hall
+course_location: Room 10C Jacobs Hall
 course_units: 1 Unit, PNP
 course_semester: Fall 2019
 ```
