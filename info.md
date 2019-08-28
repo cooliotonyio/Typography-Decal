@@ -15,6 +15,9 @@ Lecture will be held in **{{site.course_location}}** on **{{site.course_schedule
 
 Disclaimer: Syllabus and schedule subject to change.
 
+Interested students can apply by clicking this 
+**[link.](https://forms.gle/pfaaiNGsmXErjeWx6)**
+
 ## Course Description
 ___
 
