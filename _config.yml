@@ -22,7 +22,6 @@ url: "http://typographydecal.com" # the base hostname & protocol for your site, 
 
 # For GitHub Pages
 destination: docs
-future: true
 
 # Site-wide course information
 course_listing: DES INV 98-2
