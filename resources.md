@@ -14,11 +14,17 @@ description: When you're feeling a little adventurous...
 
 ## Guides, Blogs, Inspo
 
+* [Typography Deconstructed](https://typedecon.com)
 * [Typewolf](https://www.typewolf.com/)
 * [Calligraphica](http://calligraphica.org/)
 * [Thinking with Type](http://thinkingwithtype.com/)
 * [The Daily Type](https://thedailytype.com/)
 * [Practical Typography](https://practicaltypography.com/)
+
+## Fun things
+
+* [Butt Types by Viktor Hertz](https://www.facebook.com/pg/viktorhertz/photos/?tab=album&album_id=2290066491069841&__tn__=-UC-R)
+* [Bad typography has ruined more than just the Oscars](https://www.vox.com/2017/3/21/15004126/oscars-graphic-design)
 
 ## Books
 
