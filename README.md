@@ -12,11 +12,12 @@ If layout style changes need to be made, edit the layout files in `_layouts/`.
 
 The only thing required to develop the site is Jekyll, which requires Ruby.
 
-For macOS, this can be done with
+For macOS, this can be done with the following two commands
 
 ```
 brew install ruby
-gem install bundler jekyll
+sudo gem install bundler jekyll
+sudo bundle update
 ```
 
 In order to see your changes, run `jekyll serve`. This will create a local server at your computer for you to explore changes.

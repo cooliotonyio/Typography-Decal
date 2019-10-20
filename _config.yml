@@ -23,6 +23,9 @@ url: "http://typographydecal.com" # the base hostname & protocol for your site, 
 # For GitHub Pages
 destination: docs
 
+# Show future posts
+future: true
+
 # Site-wide course information
 course_listing: DES INV 98-2
 course_schedule: Thursday, 7-8:30pm
